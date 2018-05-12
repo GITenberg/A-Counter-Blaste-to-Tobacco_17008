@@ -1,0 +1,34 @@
+_repo: A-Counter-Blaste-to-Tobacco_17008
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: James I, King of England
+    alias: James VI, King of Scotland
+    birthdate: 1566
+    deathdate: 1625
+    gutenberg_agent_id: '7089'
+    url: http://www.gutenberg.org/2009/agents/7089
+    wikipedia: http://en.wikipedia.org/wiki/James_I_of_England
+  editor:
+    agent_name: Goldsmid, Edmund
+    alias: Goldsmid, Edmund Marsden
+    gutenberg_agent_id: '2022'
+    url: http://www.gutenberg.org/2009/agents/2022
+description: In 1604, James I of England published his "Counterblaste to tobacco"
+  in an attempt to curb a smoking habit.
+gutenberg_issued: '2005-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17008'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GT'
+- !lcsh 'Tobacco'
+title: A Counter-Blaste to Tobacco
+url: http://www.gutenberg.org/ebooks/17008
