@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2022
 description: In 1604, James I of England published his "Counterblaste to tobacco"
   in an attempt to curb a smoking habit.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17008#A-Counter-Blaste-to-Tobacco
 gutenberg_issued: '2005-11-05'
 gutenberg_type: Text
 identifiers:
